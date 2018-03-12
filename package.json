@@ -1,0 +1,16 @@
+{
+  "name": "comingsoon_counting_timer",
+  "version": "1.0.0",
+  "description": "Coming Soon Under Construction counting timer",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "countdown",
+    "underconstruction",
+    "loading"
+  ],
+  "author": "Selvakumar Murugesan",
+  "license": "MIT"
+}
